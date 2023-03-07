@@ -6526,6 +6526,14 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+   {
+    artName: 'Butterfly Animation',
+    pageLink: './Art/Kalia/index.html',
+    imageLink: './Art/Kalia/butterfly.gif',
+    author: 'Kalia',
+    githubLink: 'https://github.com/kthao21'
+  }
+];
 ];
 
 // +--------------------------------------------------------------------------------+
